@@ -1,0 +1,42 @@
+.nav {
+	display: block;
+	width: auto;
+	background-color: white;
+	color: black;
+	font-family: arial;
+	font-size: 12px;
+	list-style-type: none;
+}
+.fl-right{
+	float: right;
+}
+.fl-left{
+	float: left;
+}
+.nav-dec{
+	margin: 10px;
+}
+#logo{
+	display: block;
+	align-content: center;
+	margin: auto;
+	z-index: 1;
+}
+#search-bar{
+	display: block;
+	margin: auto;
+	width: 30%;
+	height: 37px;
+	font-size: 17px;
+	align-content: center;
+	border-width: 1px;
+	border-color: black;
+	z-index: 2;
+	background-color: white;
+	color: black;
+}
+#sign-in{
+	background-color: #4286f4;
+	color: white; 
+	padding: 7px;
+}
